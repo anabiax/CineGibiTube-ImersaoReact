@@ -1,4 +1,4 @@
-## CineGibiTube
+## CineGibiTube 🎬
 A aplicação faz parte da jornada imersão [Alura](https://www.alura.com.br/) fazendo uso da biblioteca ReactJS para a criação do "Aluratube", isto é, uma página voltada para a exibição dos conteúdos da escola de tecnologia, todavia, nada melhor do que estimular a criatividade e trazer um toque pessoal ao projetinho. <br>
 #### E assim nasce o CineGibiTube 🎬 <br>
 E antes que venha a pergunta, sim, eu era obcecada por Turma da Mônica quando criança e certamente seria o maior sonho da minha vida ter todos os cines gibis compilados em um único lugar. Devo admitir que a criança interior falou mais alto quando cantarolou um "como é bom ir ao cinema pra ver um filme legal".
@@ -25,12 +25,11 @@ processos e padrões bem definidos que ajudarão a reduzir erros, fazendo com qu
 <br>
 O Desing System traz consistência às equipes multidisciplinares envolvidas na confecção do produto (além de facilitar o processo de refatoração dos códigos na etapa de pair programming).
 
-<br><br>
-
+<br>
 Single Page Application (SPA) - componentes reagem e se adaptam de acordo com o estado atual da interface de modo a otimizar a interação do usuário. Em outras palavras, a SPA quase nunca dá um reload inteiro da página, mas atualiza o componente em específico de acordo com a interatividade indicada.
 
 ### Link do projeto no ar: 
-
+https://cine-gibi-tube-imersao-react.vercel.app/
 
 ## Capturas de tela 
 
