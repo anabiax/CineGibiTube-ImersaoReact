@@ -25,7 +25,7 @@ processos e padrões bem definidos que ajudarão a reduzir erros, fazendo com qu
 <br>
 O Desing System traz consistência às equipes multidisciplinares envolvidas na confecção do produto (além de facilitar o processo de refatoração dos códigos na etapa de pair programming).
 
-<br>
+<br><br>
 
 Single Page Application (SPA) - componentes reagem e se adaptam de acordo com o estado atual da interface de modo a otimizar a interação do usuário. Em outras palavras, a SPA quase nunca dá um reload inteiro da página, mas atualiza o componente em específico de acordo com a interatividade indicada.
 
