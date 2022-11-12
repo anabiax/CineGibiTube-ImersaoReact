@@ -1,9 +1,9 @@
 ## CineGibiTube
 A aplicação faz parte da jornada imersão [Alura](https://www.alura.com.br/) fazendo uso da biblioteca ReactJS para a criação do "Aluratube", isto é, uma página voltada para a exibição dos conteúdos da escola de tecnologia, todavia, nada melhor do que estimular a criatividade e trazer um toque pessoal ao projetinho. <br>
-#### E assim nasce o CineGibiTube<br>
+#### E assim nasce o CineGibiTube 🎬 <br>
 E antes que venha a pergunta, sim, eu era obcecada por Turma da Mônica quando criança e certamente seria o maior sonho da minha vida ter todos os cines gibis compilados em um único lugar. Devo admitir que a criança interior falou mais alto quando cantarolou um "como é bom ir ao cinema pra ver um filme legal".
 
-Voltando à maturidade, nos dias nos quais decorreram a construção do projeto foi incentivado o desenvolvimento de uma visão multidisciplinar e analítica das reais necessidades do front-end, cujo objetivo centrou-se na promoção de uma proveitosa experiência de desenvolvimento.
+Voltando à maturidade, nos dias em que decorreram a construção do projeto foi incentivado o desenvolvimento de uma visão multidisciplinar e analítica das reais necessidades do front-end, cujo objetivo centrou-se na promoção de uma proveitosa experiência de desenvolvimento.
 
 <br>
 
