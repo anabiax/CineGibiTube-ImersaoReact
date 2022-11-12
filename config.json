@@ -1,0 +1,139 @@
+{
+    "name": "AnaB",
+    "job": "Dev front-end",
+    "bg": "https://www.justwatch.com/images/backdrop/134272233/s640/turma-da-monica-cine-gibi-4-meninos-e-meninas",
+    "github": "anabiax",
+    "playlists": {
+        "Cine Gibi": [
+            {
+                "title": "Cine Gibi 1",
+                "url": "https://www.youtube.com/watch?v=7m-oXqZ1s3I",
+                "thumb": "https://img.youtube.com/vi/7m-oXqZ1s3I/hqdefault.jpg"
+            },
+            {
+                "title": "Cine Gibi 2",
+                "url": "https://www.youtube.com/watch?v=nMluoUihrMI",
+                "thumb": "https://img.youtube.com/vi/nMluoUihrMI/hqdefault.jpg"
+            },
+            {
+                "title": "Cine Gibi 3",
+                "url": "https://www.youtube.com/watch?v=Vh8wJw8AunI",
+                "thumb": "https://img.youtube.com/vi/Vh8wJw8AunI/hqdefault.jpg"
+            },
+            {
+                "title": "Cine Gibi 4",
+                "url": "https://www.youtube.com/watch?v=RdStCe8mcQc",
+                "thumb": "https://img.youtube.com/vi/RdStCe8mcQc/hqdefault.jpg"
+            },
+            {
+                "title": "Cine Gibi 5",
+                "url": "https://www.youtube.com/watch?v=JHZ-_0_qbBU",
+                "thumb": "https://img.youtube.com/vi/JHZ-_0_qbBU/hqdefault.jpg"
+            },
+            {
+                "title": "Cine Gibi 6",
+                "url": "https://www.youtube.com/watch?v=hKV_4MEGsgg",
+                "thumb": "https://img.youtube.com/vi/hKV_4MEGsgg/hqdefault.jpg"
+            },
+            {
+                "title": "Cine Gibi 7",
+                "url": "https://www.youtube.com/watch?v=Sf_cdC3enA8",
+                "thumb": "https://img.youtube.com/vi/Sf_cdC3enA8/hqdefault.jpg"
+            },
+            {
+                "title": "Cine Gibi 8",
+                "url": "https://www.youtube.com/watch?v=2LpANPpokIs",
+                "thumb": "https://img.youtube.com/vi/2LpANPpokIs/hqdefault.jpg"
+            }
+        ],
+        "Maratonas": [
+            {
+                "title": "O dia em que o Cebolinha desistiu dos planos infalíveis",
+                "url": "https://www.youtube.com/watch?v=wqeUgdps8lY",
+                "thumb": "https://img.youtube.com/vi/wqeUgdps8lY/hqdefault.jpg"
+            },
+            {
+                "title": "Boas maneiras da senhorita Biju",
+                "url": "https://www.youtube.com/watch?v=r1wgeYptBUU",
+                "thumb": "https://img.youtube.com/vi/r1wgeYptBUU/hqdefault.jpg"
+            },
+            {
+                "title": "Invenções do Franjinha",
+                "url": "https://www.youtube.com/watch?v=LNXMoH_hDXI",
+                "thumb": "https://img.youtube.com/vi/LNXMoH_hDXI/hqdefault.jpg"
+            },
+            {
+                "title": "Chico Bento: a hora da onça beber água",
+                "url": "https://www.youtube.com/watch?v=V1e_pAF8KWU",
+                "thumb": "https://img.youtube.com/vi/V1e_pAF8KWU/hqdefault.jpg"
+            },
+            {
+                "title": "Maratona Quase-Banho no Cascão",
+                "url": "https://www.youtube.com/watch?v=ky53h68zgCA",
+                "thumb": "https://img.youtube.com/vi/ky53h68zgCA/hqdefault.jpg"
+            },
+            {
+                "title": "Os brincos novos que a mamãe comprou",
+                "url": "https://www.youtube.com/watch?v=wBxlJGo9iv4",
+                "thumb": "https://img.youtube.com/vi/wBxlJGo9iv4/hqdefault.jpg"
+            },
+            {
+                "title": "Denise - 50 minutos de fama",
+                "url": "https://www.youtube.com/watch?v=IwkU_o3JU48",
+                "thumb": "https://img.youtube.com/vi/IwkU_o3JU48/hqdefault.jpg"
+            },
+            {
+                "title": "Álbum de fotografias",
+                "url": "https://www.youtube.com/watch?v=GOHJLMAJbFI",
+                "thumb": "https://img.youtube.com/vi/GOHJLMAJbFI/hqdefault.jpg"
+            },
+            {
+                "title": "Diga o que eu digo. Faça o que eu faço",
+                "url": "https://www.youtube.com/watch?v=6ZIInQiZc80",
+                "thumb": "https://img.youtube.com/vi/6ZIInQiZc80/hqdefault.jpg"
+            }
+        ],
+        "Mônica Toy": [
+            {
+                "title": "Fala sério",
+                "url": "https://www.youtube.com/watch?v=PNJfEIPKjsM",
+                "thumb": "https://img.youtube.com/vi/PNJfEIPKjsM/hqdefault.jpg"
+            },
+            {
+                "title": "Só de longe",
+                "url": "https://www.youtube.com/watch?v=WPTxf9pesXQ",
+                "thumb": "https://img.youtube.com/vi/WPTxf9pesXQ/hqdefault.jpg"
+            },
+            {
+                "title": "Cebolínion e o Malvadinho Favolito",
+                "url": "https://www.youtube.com/watch?v=eOXamDX4PDs",
+                "thumb": "https://img.youtube.com/vi/eOXamDX4PDs/hqdefault.jpg"
+            },
+            {
+                "title": "Bandeirinhas",
+                "url": "https://www.youtube.com/watch?v=Bq4CzI2NQzA",
+                "thumb": "https://img.youtube.com/vi/Bq4CzI2NQzA/hqdefault.jpg"
+            },
+            {
+                "title": "Plano Mascarado",
+                "url": "https://www.youtube.com/watch?v=H0zGZwPFUGA",
+                "thumb": "https://img.youtube.com/vi/H0zGZwPFUGA/hqdefault.jpg"
+            },
+            {
+                "title": "Toy Toyrássicos",
+                "url": "https://www.youtube.com/watch?v=EXVUJ-sgsQM",
+                "thumb": "https://img.youtube.com/vi/EXVUJ-sgsQM/hqdefault.jpg"
+            },
+            {
+                "title": "Cebuzzlinha Ao infinito e AuAulém!",
+                "url": "https://www.youtube.com/watch?v=J3q_SKneCzk",
+                "thumb": "https://img.youtube.com/vi/J3q_SKneCzk/hqdefault.jpg"
+            },
+            {
+                "title": "Cebuzzlinha Ao infinito e AuAulém!",
+                "url": "https://www.youtube.com/watch?v=6PfoU41uG48",
+                "thumb": "https://img.youtube.com/vi/6PfoU41uG48/hqdefault.jpg"
+            }
+        ]
+    } 
+}
