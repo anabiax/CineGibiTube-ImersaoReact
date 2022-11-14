@@ -12,15 +12,12 @@ Ademais, inicializar o projeto contemplando aspectos basilares de software como 
 
 ### Destrinchando algumas palavrinhas-chave de suma relevância:
 
-O planejamento arquitetural de front-end perpassa uma série de conceitos relevantes para o desenvolvimento de software, levando em consideração o modelo de aplicação, documentações bem definidas, tempo de vida e code review, além de abranger as dimensões de testes e o contínuo trabalho de incremento a fim de conferir qualidade ao projeto. Logo, o cuidado de delimitar quais ferramentas e features serão utilizadas para se atingir o objetivo do time é crucial para evitar retrabalho posteriormente, bem como ter clara a noção de sistemas escaláveis .
-<br>
+O planejamento arquitetural de front-end perpassa uma série de conceitos relevantes para o desenvolvimento de software, levando em consideração o modelo de aplicação, documentações bem definidas, tempo de vida e code review, além de abranger as dimensões de testes e o contínuo trabalho de incremento a fim de conferir qualidade ao projeto. Logo, o cuidado de delimitar quais ferramentas e features serão utilizadas para se atingir o objetivo do time é crucial para evitar retrabalho posteriormente, bem como ter clara a noção de sistemas escaláveis.
 
 A organização infraestrutural possibilita que um trabalho complexo seja aprimorado através de um modelo de resolução de processos, mantendo a simplicidade, a robustez e a confiabilidade voltados p/ as boas práticas de entrega. 
 
-<br>
 O Desing System traz consistência às equipes multidisciplinares envolvidas na confecção do produto (além de facilitar o processo de refatoração dos códigos na etapa de pair programming).
 
-<br>
 Single Page Application (SPA) - componentes reagem e se adaptam de acordo com o estado atual da interface de modo a otimizar a interação do usuário. Em outras palavras, a SPA quase nunca dá um reload inteiro da página, mas atualiza o componente em específico de acordo com a interatividade indicada.
 
 ### Link do projeto no ar: 
