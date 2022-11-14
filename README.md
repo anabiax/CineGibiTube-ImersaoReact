@@ -51,7 +51,7 @@ https://cine-gibi-tube-imersao-react.vercel.app/
 </ul>
 
 <ul>
-	<li>ContextAPI(configurou o global da configuração p/ implementar o dark mode);</li>
+	<li>contextAPI(configurou o global da configuração p/ implementar o dark mode);</li>
 </ul>
 
 <ul>
@@ -97,7 +97,7 @@ https://www.youtube.com/c/TurmadaM%C3%B4nica
 </ul>
 
 <ul>
-	<li>destrinchar conceitos, tirar prints e fazer uma revisão coesa do readme.</li>
+	<li>tirar prints e fazer uma revisão coesa do readme.</li>
 </ul>
 
 
