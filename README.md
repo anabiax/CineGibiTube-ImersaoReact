@@ -12,7 +12,7 @@ Ademais, inicializar o projeto contemplando aspectos basilares de software como 
 
 ### Destrinchando algumas palavrinhas-chave de suma relevância:
 
-O planejamento arquitetural de front-end perpassa uma série de conceitos relevantes para o desenvolvimento de software, levando em consideração o modelo de aplicação, documentações bem definidas, tempo de vida e code review, além de abranger as dimensões de testes e o contínuo trabalho de incremento a fim de conferir qualidade ao projeto. Logo, o cuidado de delimitar quais ferramentas e features serão utilizadas para se atingir o objetivo do time é crucial para evitar retrabalho posteriormente, bem como ter clara a noção de sistemas escaláveis.
+O planejamento arquitetural de front-end perpassa uma série de conceitos relevantes para o desenvolvimento de software, levando em consideração o modelo da aplicação, documentações bem definidas, tempo de vida e code review, além de abranger as dimensões de testes e o contínuo trabalho de incremento a fim de conferir qualidade ao projeto. Logo, o cuidado de delimitar quais ferramentas e features serão utilizadas para se atingir o objetivo do time é crucial para evitar retrabalho posteriormente, bem como ter clara a noção de sistemas escaláveis.
 
 A organização infraestrutural possibilita que um trabalho complexo seja aprimorado através de um modelo de resolução de processos, mantendo a simplicidade, a robustez e a confiabilidade voltados p/ as boas práticas de entrega. 
 
@@ -75,7 +75,7 @@ https://cine-gibi-tube-imersao-react.vercel.app/
 Obs: styled-components trata-te de uma biblioteca(lib) que permite a utilização de estilos à nível de componentes, ou seja, a escrita de códigos CSS dentro do JavaScript (CSS-in-JS). Isso acarreta na potencialização funcional da aplicação, seguido da hierarquização de recursos semânticos e no reaproveitamento das propriedades.
 
 ## Comandos para a execução do projeto:
-****`cd nome-do-projeto`**** (entrar na pasta do arquivo) <br>
+****`cd nome-do-projeto`**** (entrar na pasta do arquivo via terminal) <br>
 ****`code .`**** (abrir o editor de textos Visual Studio Code) <br>
 ****`npm install`**** (baixar as dependências instaladas) <br>
 ****`npm run dev`**** (executar os scripts) <br>
