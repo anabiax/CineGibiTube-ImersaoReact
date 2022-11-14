@@ -8,7 +8,7 @@ E antes que venha a pergunta, sim, eu era obcecada por Turma da Mônica quando c
 
 Voltando à maturidade, nos dias em que decorreram a construção do projeto foi incentivado o desenvolvimento de uma visão multidisciplinar e analítica das reais necessidades do front-end, cujo objetivo centrou-se na promoção de uma proveitosa experiência de desenvolvimento.
 
-Ademais, inicializar o projeto contemplando aspectos basilares de software como o pensamento arquitetural, organização infraestrutural e design patterns foi essencial para compreender de forma simplificada o fluxo alinhado às boas práticas de produção, que aos poucos confere produtividade à pessoa desenvolvedora e valor aos projetos.
+Ademais, inicializar o projeto contemplando aspectos basilares de software como o pensamento arquitetural, organização infraestrutural e design patterns foi essencial para compreender de forma simplificada o fluxo alinhado às boas práticas de produção, que aos poucos conferem produtividade à pessoa desenvolvedora e valor aos projetos.
 
 ### Destrinchando algumas palavrinhas-chave de suma relevância:
 
